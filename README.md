@@ -1,0 +1,2 @@
+# sphinx
+home automation documintation
